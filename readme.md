@@ -2,11 +2,6 @@
 
 								RESUME SCANNING SOFTWARE
 
-NAME: MUSKAN KOTHARI
-SECTION: N
-SRN: PES1UG19CS284
-ROLL NO: 6
-
 This project scans .txt files for the entered pattern. File names with .txt extensions are entered as command line arguments as mentioned in the instructions file. After validating those, the program starts. This is a flexible, case-INSENSITIVE program since it asks the user what type of scanning they wish to apply. 
 There are two options:
 1. scanning only for 1 keyword
